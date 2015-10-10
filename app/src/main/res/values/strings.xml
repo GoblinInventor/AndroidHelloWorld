@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Hello World</string>
+    <string name="action_settings">Settings</string>
+    <string name="Center_Button">Click to toast</string>
+</resources>
